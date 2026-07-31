@@ -34,7 +34,7 @@ class Mobil {
         return $this->warna;
     }
 
-    // public method untuk mengakses private property
+    // public method untuk mengakses private propertys
     public function getHarga(): float {
         return $this->harga;
     }
